@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-gpt-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp бот с ChatGPT",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "axios": "^1.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
